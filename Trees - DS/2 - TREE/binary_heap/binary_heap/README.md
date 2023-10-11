@@ -1,0 +1,1 @@
+A binary heap tree is a specialized binary tree structure that satisfies the heap property, where the parent node is either greater (max heap) or smaller (min heap) than its children, enabling efficient priority-based operations.

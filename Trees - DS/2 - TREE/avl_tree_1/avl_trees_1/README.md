@@ -1,0 +1,1 @@
+AVL trees are self-balancing binary search trees that ensure logarithmic time complexity for insertion, deletion, and retrieval operations by maintaining a balanced height, allowing efficient data storage and retrieval.
